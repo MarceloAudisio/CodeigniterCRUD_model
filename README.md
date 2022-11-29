@@ -3,7 +3,7 @@
 
 Se trata de un modelo para adjuntar a un proyecto de codeiniter 3, con la mayoría de los problemas comunes resueltos
 
-####Como usar:
+######Como usar:
 Copiar el archivo MY_Model.php al directorio application/core/
 
 Al crear un modelo, este es el esquema básico
