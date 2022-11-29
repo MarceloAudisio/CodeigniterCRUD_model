@@ -8,9 +8,10 @@ Copiar el archivo MY_Model.php al directorio application/core/
 
 Al crear un modelo, este es el esquema básico
 
+```
 class example_model extends MY_Model{
     public $table="tabla";
-    public $primarykey="tabla.id";
+    public $primary_key="tabla.id";
     
     public function __construct(){
          parent::__construct();
@@ -25,3 +26,4 @@ class example_model extends MY_Model{
     }
 
 }
+```
